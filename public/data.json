@@ -1,0 +1,82 @@
+[
+  {
+    "playerName": "Rahim Khan",
+    "playerImg":"https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "Bangladesh",
+    "bowlingStyle": "Right-arm Fast",
+    "battingStyle": "Right-hand Bat",
+    "price": 120
+  },
+  {
+    "playerName": "Arjun Mehta",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "India",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Left-hand Bat",
+    "price": 100
+  },
+  {
+    "playerName": "David Miller",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "South Africa",
+    "bowlingStyle": "Right-arm Medium",
+    "battingStyle": "Left-hand Bat",
+    "price": 150
+  },
+  {
+    "playerName": "James Anderson",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "England",
+    "bowlingStyle": "Right-arm Fast",
+    "battingStyle": "Right-hand Bat",
+    "price": 135
+  },
+  {
+    "playerName": "Kane Williamson",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "New Zealand",
+    "bowlingStyle": "Right-arm Off Break",
+    "battingStyle": "Right-hand Bat",
+    "price": 180
+  },
+  {
+    "playerName": "Babar Azam",
+    "playerImg":"https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "Pakistan",
+    "bowlingStyle": "Right-arm Off Break",
+    "battingStyle": "Right-hand Bat",
+    "price": 200
+  },
+  {
+    "playerName": "Rashid Khan",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "Afghanistan",
+    "bowlingStyle": "Right-arm Leg Break",
+    "battingStyle": "Right-hand Bat",
+    "price": 220
+  },
+  {
+    "playerName": "Jason Holder",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "West Indies",
+    "bowlingStyle": "Right-arm Medium Fast",
+    "battingStyle": "Right-hand Bat",
+    "price": 165
+  },
+  {
+    "playerName": "Pat Cummins",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "Australia",
+    "bowlingStyle": "Right-arm Fast",
+    "battingStyle": "Right-hand Bat",
+    "price": 210
+  },
+  {
+    "playerName": "Shakib Hasan",
+    "playerImg": "https://p.imgci.com/db/PICTURES/CMS/388000/388018.5.png",
+    "origin": "Bangladesh",
+    "bowlingStyle": "Left-arm Orthodox",
+    "battingStyle": "Left-hand Bat",
+    "price": 190
+  }
+]
